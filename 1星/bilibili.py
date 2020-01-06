@@ -7,6 +7,6 @@ import sys
 from you_get import common as you_get
 
 place = "E:/PythonCode/bilibili"
-url = "https://www.bilibili.com/video/av62162985"
+url = "https://www.bilibili.com/video/av77483820"
 sys.argv = ["you_get", "-o", place, url]
 you_get.main()
