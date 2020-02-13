@@ -27,3 +27,5 @@ Pycharm社区版2019<br>
 - tik.py  爬虫类  60行代获取抖音漂亮小姐姐的视频。<br>
 - danmu.py  兴趣类  50行代获取B站弹幕并制作精美词云。<br>
 ### 五星难度列表<br>
+- tieba  综合类  爬虫+Mongodb+selenium综合应用。<br>
+- 表白  兴趣类  用Python表白的6种方法。<br>
