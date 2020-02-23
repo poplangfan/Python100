@@ -29,3 +29,4 @@ Pycharm社区版2019<br>
 ### 五星难度列表<br>
 - tieba  综合类  爬虫+Mongodb+selenium综合应用。<br>
 - 表白  兴趣类  用Python表白的6种方法。<br>
+- AI换脸  兴趣类  真正的高端黑科技。<br>

@@ -6,7 +6,7 @@
 """
 from PIL import Image, ImageDraw, ImageFont
 
-font_size = 10
+font_size = 8
 text = "我喜欢你！"
 img_path = "./ym.jpg"
 
