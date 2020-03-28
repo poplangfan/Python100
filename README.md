@@ -13,6 +13,7 @@ Pycharm社区版2019<br>
 ### 一星难度列表<br>
 - bilibili.py  爬虫类  6行代码获取各大网站音视频。<br>
 - pip.py  工具类  快速安装第三方库。<br>
+- QR_code.py  兴趣类  5行代码实现个性化二维码。<br>
 ### 二星难度列表<br>
 - 必应.py  爬虫类  20行代码获取Bing美图。<br>
 - auto_email.py  工具类  20行代码自动发送邮件。<br>
